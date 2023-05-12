@@ -12,4 +12,4 @@ The code uses the AVR-GCC library to control the ATMEGA328P microcontroller's I/
 ### Tinkercad link:
 Visit [TinkerCAD](https://www.tinkercad.com/things/7cqUnSutyBN) to try simulation of the following program.
 ### Hardware:
-Please refer [Hardware Setup and Load](README.md) Section.
+Please refer [Code Compile and Load](https://github.com/AaryanAshok/ArduinoUNOEmbeddedC/blob/main/README.md) Section.
